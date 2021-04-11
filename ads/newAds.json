@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png",
+      "appName": "Sweet Face Camera",
+      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
+      "package": "beauty.picshop.sweet.face.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster3.jpg",
+      "appName": "Text on Photo",
+      "description": "Text to photo is a free application that helps users easily add text to photos",
+      "package": "beauty.shop.text.photo",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
