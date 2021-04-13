@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-01.jpg"
+        },
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-02.jpg"
+        },
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-03.jpg"
+        },
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-04.jpg"
+        },
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-05.jpg"
+        },
+        {
+          "link": "data/albummusic/post25",
+          "thumb": "res/template/albummusic/thumbs/thumb-06.jpg"
+        }
+      ]
+    }
+  ]
+}
