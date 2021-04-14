@@ -1,0 +1,17 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "native_ads_app_pos": 1,
+  "sticker": "res/template/album/sticker/info.json",
+  "background": "res/template/album/background/info.json",
+  "policy":"https://raw.githubusercontent.com/minhndh/covermaker/master/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "link": "data/album/info.json",
+  "slider": [
+    {
+      "link": "data/album/post25",
+      "thumb": "res/template/album/thumbs/thumb-25.jpg"
+    }
+  ]
+}

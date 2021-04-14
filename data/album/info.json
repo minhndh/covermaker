@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        },
+        {
+          "link": "data/album/post25",
+          "thumb": "res/template/album/thumbs/thumb-25.jpg"
+        }
+      ]
+    }
+  ]
+}
