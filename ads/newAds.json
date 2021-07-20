@@ -1,21 +1,21 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png",
-      "appName": "Sweet Face Camera",
-      "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
-      "package": "beauty.picshop.sweet.face.camera",
+      "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/graphic.jpg",
+      "appName": "Album Cover Maker",
+      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
+      "package": "com.photo.beauty.plus.album.cover",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster3.jpg",
-      "appName": "Text on Photo",
-      "description": "Text to photo is a free application that helps users easily add text to photos",
-      "package": "beauty.shop.text.photo",
+      "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon3.png",
+      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/poster3.png",
+      "appName": "Emoji Selfie Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "mobility.studio.live.face.sticker.sweet.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"

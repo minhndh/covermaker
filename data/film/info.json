@@ -6,50 +6,51 @@
       "list": [
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
-        },{
-          "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
-        },
-        {
-          "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-31.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-32.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         }
 ]
     }
