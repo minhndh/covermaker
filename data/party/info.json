@@ -51,6 +51,14 @@
         {
           "link": "data/film/post1",
           "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
         }
 ]
     }
