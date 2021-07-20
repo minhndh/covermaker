@@ -1,0 +1,31 @@
+{
+  "type": 1,
+  "native_ads_app_pos":2,
+  "native_ads_pos": 0,
+  "hideAdOpenApp": false,
+  "sticker": "res/template/cover/sticker/info.json",
+  "background": "res/template/cover/background/info.json",
+  "am_ba": "",
+  "am_in": "",
+  "am_home_in": "",
+  "am_na": "",
+  "am_vi":"",
+  "am_oa":"",
+
+  "ads_list": ["am"],
+
+  "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/ads.json",
+  "link": "data/cover/info.json",
+  "slider": [
+    {
+      "link": "data/cover/post1",
+      "thumb": "res/template/cover/thumbs/thumb-01.jpg"
+    },
+    {
+    "link": "data/cover/post2",
+    "thumb": "res/template/cover/thumbs/thumb-02.jpg"
+    }
+  ]
+}

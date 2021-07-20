@@ -1,0 +1,17 @@
+{
+  "name": "UltimateThumbnail",
+  "data": [
+    {
+      "link": "data/album/info.json",
+      "bg": "data/ultimatethumbnail/album.jpg"
+    },
+    {
+      "link": "data/film/info.json",
+      "bg": "data/ultimatethumbnail/film.jpg"
+    },
+    {
+      "link": "data/party/info.json",
+      "bg": "data/ultimatethumbnail/party.jpg"
+    }
+  ]
+}
