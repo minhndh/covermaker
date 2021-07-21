@@ -3,15 +3,181 @@
   "data": [
     {
       "link": "data/album/info.json",
-      "bg": "data/ultimatethumbnail/album.jpg"
+      "bg": "data/ultimatethumbnail/album.jpg",
+      "name": "Album Cover Maker",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+        },
+        {
+          "link": "data/album/post1",
+          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+        }
+      ]
     },
     {
       "link": "data/film/info.json",
-      "bg": "data/ultimatethumbnail/film.jpg"
+      "bg": "data/ultimatethumbnail/film.jpg",
+      "name": "Movie Poster Maker",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/pos1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        }]
     },
     {
       "link": "data/party/info.json",
-      "bg": "data/ultimatethumbnail/party.jpg"
+      "bg": "data/ultimatethumbnail/party.jpg",
+      "name": "Party Maker",
+      "type": 1,
+      "list": [
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        },
+        {
+          "link": "data/party/post1",
+          "thumb": "res/template/cover/thumbs/thumb-33.jpg"
+        },
+        {
+          "link": "data/film/post1",
+          "thumb": "res/template/cover/thumbs/thumb-34.jpg"
+        }]
     }
   ]
 }
