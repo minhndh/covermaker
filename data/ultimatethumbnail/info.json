@@ -9,51 +9,63 @@
       "list": [
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+          "thumb": "res/template/album/thumbs/thumb-31.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+          "thumb": "res/template/album/thumbs/thumb-32.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-33.jpg"
+          "thumb": "res/template/album/thumbs/thumb-33.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-34.jpg"
+          "thumb": "res/template/album/thumbs/thumb-34.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-35.jpg"
+          "thumb": "res/template/album/thumbs/thumb-35.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-36.jpg"
+          "thumb": "res/template/album/thumbs/thumb-36.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-37.jpg"
+          "thumb": "res/template/album/thumbs/thumb-37.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+          "thumb": "res/template/album/thumbs/thumb-32.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+          "thumb": "res/template/album/thumbs/thumb-31.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+          "thumb": "res/template/album/thumbs/thumb-32.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-31.jpg"
+          "thumb": "res/template/album/thumbs/thumb-31.jpg",
+          "newpass": true
         },
         {
           "link": "data/album/post1",
-          "thumb": "res/template/album/thumbs/thumb-32.jpg"
+          "thumb": "res/template/album/thumbs/thumb-32.jpg",
+          "newpass": true
         }
       ]
     },
@@ -65,23 +77,28 @@
       "list": [
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-38.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-38.jpg",
+          "newpass": true
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-39.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-39.jpg",
+          "newpass": true
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-40.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-40.jpg",
+          "newpass": true
         },
         {
           "link": "data/film/pos1",
-          "thumb": "res/template/cover/thumbs/thumb-41.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-41.jpg",
+          "newpass": true
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-42.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-42.jpg",
+          "newpass": true
         }]
     },
     {
@@ -92,15 +109,18 @@
       "list": [
         {
           "link": "data/party/post1",
-          "thumb": "res/template/cover/thumbs/thumb-43.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-43.jpg",
+          "newpass": true
         },
         {
           "link": "data/film/post1",
-          "thumb": "res/template/cover/thumbs/thumb-44.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-44.jpg",
+          "newpass": true
         },
         {
           "link": "data/party/post1",
-          "thumb": "res/template/cover/thumbs/thumb-45.jpg"
+          "thumb": "res/template/cover/thumbs/thumb-45.jpg",
+          "newpass": true
         }]
     }
   ]
