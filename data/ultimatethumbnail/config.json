@@ -11,6 +11,7 @@
   "policy":"https://raw.githubusercontent.com/minhndh/covermaker/master/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/newAds.json",
+  "ads_list": ["mp"],
   "slider": [
     {
       "link": "data/film/post1",
