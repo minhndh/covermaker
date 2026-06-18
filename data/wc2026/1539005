@@ -1,11 +1,11 @@
 {
   "type": 0,
-  "id": "1172987",
+  "id": "1539005",
   "millisecondsUTC": 0,
   "hide": false,
   "streamingData": [
     {
-      "stream": "https://ireplay.tv/test/blender.m3u8",
+      "stream": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
       "name": "Channel 1",
       "logo": "",
       "background": "#FFFFFF",
@@ -17,7 +17,7 @@
       "openIdeaPlayer": false
     },
     {
-      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "name": "Channel 2",
       "logo": "",
       "background": "#FFFFFF",
@@ -29,7 +29,7 @@
       "openIdeaPlayer": false
     },
     {
-      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "stream": "https://ireplay.tv/test/blender.m3u8",
       "name": "Channel 3",
       "logo": "",
       "background": "#FFFFFF",
@@ -41,7 +41,7 @@
       "openIdeaPlayer": true
     },
     {
-      "stream": "https://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
       "name": "Channel 4",
       "logo": "",
       "background": "#FFFFFF",
