@@ -1,0 +1,71 @@
+{
+  "type": 0,
+  "id": "1489401",
+  "millisecondsUTC": 0,
+  "hide": false,
+  "streamingData": [
+    {
+      "stream": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "name": "Channel 1",
+      "logo": "",
+      "background": "#FFFFFF",
+      "nation": "Canada",
+      "dateTime": 0,
+      "description": "720p",
+      "openWebView": false,
+      "openBrowser": false,
+      "openIdeaPlayer": false
+    },
+    {
+      "stream": "https://ireplay.tv/test/blender.m3u8",
+      "name": "Channel 2",
+      "logo": "",
+      "background": "#FFFFFF",
+      "nation": "Canada",
+      "dateTime": 0,
+      "description": "1080p",
+      "openWebView": false,
+      "openBrowser": false,
+      "openIdeaPlayer": false
+    },
+    {
+      "stream": "https://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
+      "name": "Channel 3",
+      "logo": "",
+      "background": "#FFFFFF",
+      "nation": "Canada",
+      "dateTime": 0,
+      "description": "720p",
+      "openWebView": false,
+      "openBrowser": false,
+      "openIdeaPlayer": true
+    },
+    {
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "name": "Channel 4",
+      "logo": "",
+      "background": "#FFFFFF",
+      "nation": "Canada",
+      "dateTime": 0,
+      "description": "480p",
+      "openWebView": false,
+      "openBrowser": false,
+      "openIdeaPlayer": true
+    },
+    {
+      "stream": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+      "name": "Channel 5",
+      "logo": "",
+      "background": "#FFFFFF",
+      "nation": "Canada",
+      "dateTime": 0,
+      "description": "1080p",
+      "openWebView": false,
+      "openBrowser": false,
+      "openIdeaPlayer": true
+    }
+  ],
+  "isLive": true,
+  "idTeam1": 0,
+  "idTeam2": 0
+}
